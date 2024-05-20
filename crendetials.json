@@ -1,0 +1,11 @@
+{
+  "installed": {
+    "client_id": "443727155730-o4mdgsdkb91ns93of4ib682sr6htboud.apps.googleusercontent.com",
+    "project_id": "sizze-project",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_secret": "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",
+    "redirect_uris": ["http://localhost"]
+  }
+}

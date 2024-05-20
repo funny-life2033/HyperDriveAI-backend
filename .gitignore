@@ -1,0 +1,14 @@
+flask/
+*.pyc
+dev
+api/apidata.db
+yarn.lock
+yarn-error.log
+*.psd
+venv/
+venv__/
+.vscode/symbols.json
+app/db.sqlite3
+.env
+env/
+.vercel
